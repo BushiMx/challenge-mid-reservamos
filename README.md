@@ -29,7 +29,7 @@ mostrarlos mientras se utiliza la aplicación web.
 
 Al abrir la app se despliega el encabezado y un input dónde se escribe la ciudad a consultar
 
-![Página de inicio](\assets\images\reservamos-01-inicio.png)
+![Página de inicio](/src/assets/images/reservamos-01-inicio.png)
 
 Al empezar a escribir se despliega la lista de ciudades
 
