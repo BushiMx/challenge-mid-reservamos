@@ -29,13 +29,11 @@ mostrarlos mientras se utiliza la aplicación web.
 
 Al abrir la app se despliega el encabezado y un input dónde se escribe la ciudad a consultar
 
-````md
-    ![Página de inicio](src\assets\images\reservamos-01-inicio.png)
-    ```
+md ![Página de inicio](src\assets\images\reservamos-01-inicio.png)
 
 Al empezar a escribir se despliega la lista de ciudades
 
-````md
+`````md
     ![Listado de ciudades a consultar](src\assets\images\reservamos-02-datos.png)
     ```
 
@@ -46,5 +44,8 @@ si pasas el cursor por encima de un día, se cambia el enfoque
     ![Clima de los siguientes 5 días](src\assets\images\reservamos-03-resultado.png)
     ```
 ````
-````
-````
+`````
+
+```
+
+```
