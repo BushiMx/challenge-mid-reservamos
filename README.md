@@ -33,19 +33,9 @@ Al abrir la app se despliega el encabezado y un input dónde se escribe la ciuda
 
 Al empezar a escribir se despliega la lista de ciudades
 
-`````md
-    ![Listado de ciudades a consultar](src\assets\images\reservamos-02-datos.png)
-    ```
+![Listado de ciudades a consultar](/src/assets/images/reservamos-02-datos.png)
 
 Cuando seleccionas la ciudad, se despliegan los datos del clima y
 si pasas el cursor por encima de un día, se cambia el enfoque
 
-````md
-    ![Clima de los siguientes 5 días](src\assets\images\reservamos-03-resultado.png)
-    ```
-````
-`````
-
-```
-
-```
+![Clima de los siguientes 5 días](/src/assets/images/reservamos-03-resultado.png)
